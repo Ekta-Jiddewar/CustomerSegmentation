@@ -1,7 +1,6 @@
-# Data Project Part-1
-We will learn about how to structure the data projects, for productionizing your Data Science &amp; ML work.
-This is the basic folder structure without any dependency manager, config files, dvc, pdoc etc. We will slowly introduce each as the need arises.
-
+# Customer Segmentation
+This project is about 1.5 years of customers behavior data from 
+Santander bank to predict what new products customers will purchase.
 
     .
     ├── data                    # data files location
@@ -14,3 +13,9 @@ This is the basic folder structure without any dependency manager, config files,
     ├── src                     # Source files
     ├── tests                   # Automated tests (alternatively `spec` or `tests`)
     └── README.md               # A instructions file.
+
+###Team Members:
+1. Ekta Jiddewar 
+2. Archana Lakade
+3. Viresh Jatte
+4. Digvijay Patil
